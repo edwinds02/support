@@ -1,5 +1,9 @@
 # Changelog
 
+### v8.0.0 - TBA
+
+- Updated for Laravel 11.
+
 ### v7.0.0 - 2023-02-22
 
 - Updated for Laravel 10.
