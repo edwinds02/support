@@ -1,6 +1,6 @@
 # Changelog
 
-### v8.0.0 - TBA
+### v8.0.0 - 2024-03-31
 
 - Updated for Laravel 11.
 
